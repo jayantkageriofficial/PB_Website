@@ -21,7 +21,7 @@
     "@upstash/redis": "^1.35.1",
     "aos": "^3.0.0-beta.6",
     "axios": "^1.7.7",
-    "cloudinary": "^2.5.1",
+    "cloudinary": "^2.7.0",
     "clsx": "^2.1.1",
     "dns": "^0.2.2",
     "embla-carousel": "^8.6.0",
