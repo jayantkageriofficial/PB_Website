@@ -29,7 +29,7 @@
     "framer-motion": "^11.11.10",
     "iron-session": "^8.0.4",
     "jsonwebtoken": "^9.0.3",
-    "lodash": "^4.17.21",
+    "lodash": "^4.17.23",
     "lucide-react": "^0.419.0",
     "mongodb": "^6.15.0",
     "mongoose": "^8.9.2",
